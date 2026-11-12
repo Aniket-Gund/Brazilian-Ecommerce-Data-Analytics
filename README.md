@@ -1,4 +1,4 @@
-# 🇧🇷 Olist Brazilian E-Commerce: Enterprise Multi-Cloud BI Platform & C-Suite Executive Cockpit
+# Olist Brazilian E-Commerce: Enterprise Multi-Cloud BI Platform & C-Suite Executive Cockpit
 
 [![Live Interactive Dashboard](https://img.shields.io/badge/Power_BI_Service-Live_Interactive_Report-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/links/icFXyNaImI?ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f&pbi_source=linkShare)
 [![PostgreSQL](https://img.shields.io/badge/Supabase-Cloud_PostgreSQL_(415K_Rows)-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
