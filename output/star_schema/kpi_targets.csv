@@ -1,0 +1,6 @@
+kpi_name,target_value,unit,description
+On-Time Delivery Rate,0.95,percentage,Target: >= 95% on-time
+Average Review Score,4.0,score,Target: >= 4.0 out of 5.0
+Order Cancellation Rate,0.02,percentage,Target: <= 2% canceled
+Average Delivery Days,12.0,days,Target: <= 12 days transit
+Freight-to-Price Ratio,0.2,percentage,Target: <= 20% freight burden

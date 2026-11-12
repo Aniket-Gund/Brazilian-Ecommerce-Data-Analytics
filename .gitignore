@@ -1,0 +1,76 @@
+# ==============================================================================
+# Security & Credentials (CRITICAL - NEVER COMMIT LIVE CREDENTIALS)
+# ==============================================================================
+.env
+.env.*
+.env.local
+.env.*.local
+*.env
+!.env.example
+
+# Google Cloud, Supabase & Provider Service Account Keys & Certificates
+docs/gcp_service_account.json
+docs/*service_account*.json
+*service_account*.json
+*credentials*.json
+docs/*.json
+credentials/
+secrets/
+*.pem
+*.key
+*.p12
+*.pfx
+*.pkcs12
+
+# ==============================================================================
+# Python Virtual Environments
+# ==============================================================================
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# ==============================================================================
+# Python Bytecode & Build/Cache Artifacts
+# ==============================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+eggs/
+.eggs/
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.mypy_cache/
+
+# ==============================================================================
+# Jupyter Notebook Checkpoints & Cache
+# ==============================================================================
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# ==============================================================================
+# Operating System & IDE Metadata
+# ==============================================================================
+.DS_Store
+Thumbs.db
+Desktop.ini
+desktop.ini
+ehthumbs.db
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ==============================================================================
+# Agent & Teamwork Metadata (Subagent internal state)
+# ==============================================================================
+.agents/
